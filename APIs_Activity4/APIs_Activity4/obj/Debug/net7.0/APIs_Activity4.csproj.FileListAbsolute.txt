@@ -1,0 +1,15 @@
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/bin/Debug/net7.0/APIs_Activity4
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/bin/Debug/net7.0/APIs_Activity4.deps.json
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/bin/Debug/net7.0/APIs_Activity4.runtimeconfig.json
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/bin/Debug/net7.0/APIs_Activity4.dll
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/bin/Debug/net7.0/APIs_Activity4.pdb
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/obj/Debug/net7.0/APIs_Activity4.csproj.AssemblyReference.cache
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/obj/Debug/net7.0/APIs_Activity4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/obj/Debug/net7.0/APIs_Activity4.AssemblyInfoInputs.cache
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/obj/Debug/net7.0/APIs_Activity4.AssemblyInfo.cs
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/obj/Debug/net7.0/APIs_Activity4.csproj.CoreCompileInputs.cache
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/obj/Debug/net7.0/APIs_Activity4.dll
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/obj/Debug/net7.0/refint/APIs_Activity4.dll
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/obj/Debug/net7.0/APIs_Activity4.pdb
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/obj/Debug/net7.0/APIs_Activity4.genruntimeconfig.cache
+/Users/Celi/Documents/Hunter College/Spring 2023/Intro to APIs/APIs_Activity4/APIs_Activity4/obj/Debug/net7.0/ref/APIs_Activity4.dll
